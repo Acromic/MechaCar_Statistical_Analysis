@@ -24,4 +24,13 @@ lot summary
 ## Study Design: MechaCar vs Competition
 
 I think expenses would be a great study. With rising car and gas prices consumers are looking into saving money.
+Is the technology in the Mechacar vs competition that much better?
+I think you could test.
+* fuel efficency
+* engine type
+* years the cars are owned before they start breaking down.
 
+Null hypothesis: Based off the findings is there a difference with the newer technology or the same?
+Alternative Hypothesis: In which ways are these findings not equal.
+
+Id test outside of regulary maintenance (oil changes, filters, ect) which of the engines have a better life span. Which use fuel more efficency like miles driven, terrain driven. Miles and terrain type would be needed to check for statistics.
