@@ -20,3 +20,8 @@ lot summary
 <img src="https://github.com/Acromic/MechaCar_Statistical_Analysis/blob/c00090c0a0f17b01102f94d248c9689984487603/Images/one%20sample%20t%20test.png" width="75%" height="75%"><br>
 
 <img src="https://github.com/Acromic/MechaCar_Statistical_Analysis/blob/c00090c0a0f17b01102f94d248c9689984487603/Images/lot_t_test.png" width="75%" height="75%"><br>
+
+## Study Design: MechaCar vs Competition
+
+I think expenses would be a great study. With rising car and gas prices consumers are looking into saving money.
+
